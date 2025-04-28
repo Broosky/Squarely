@@ -1,4 +1,4 @@
-# 🛠️ Squarely
+# 💡 Squarely
 
 A super low-frequency square wave counter originally built back in high school, designed for basic signal counting and hands-on hardware experimentation. It uses classic 74-series logic to drive a multi-digit display and can be expanded or tuned for various applications.
 
