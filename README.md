@@ -17,6 +17,12 @@ Reflecting on the original design, here are a few areas worth improving:
 
 ---
 
+## 🔹 Rev 1
+
+- Tracking versions.
+
+---
+
 ## 🔹 General Notes
 
 - **Input Signal Options**:
