@@ -11,17 +11,16 @@ Reflecting on the original design, here are a few areas worth improving:
 - Pull unused inputs **high or low** to prevent erratic logic states
 - Support an **external clock input** via pin 14 (CP0) of the first 74XX90 counter for easier integration or testing
 
----
+> If you found this project useful, interesting, or worth keeping an eye on, consider giving it a ⭐️.
+> It helps others discover the project and motivates me to keep building and sharing more.
+
+## 🔹 Rev 1 Schematic
 
 ![Schematic](Schematic.png)
-
----
 
 ## 🔹 Rev 1
 
 - Tracking versions.
-
----
 
 ## 🔹 General Notes
 
