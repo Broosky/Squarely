@@ -16,7 +16,7 @@ Reflecting on the original design, here are a few areas worth improving:
 
 ## 🔹 Rev 1 Schematic
 
-![Schematic](Schematic.png)
+![Rev 1](<Schematics/Rev 1.png>)
 
 ## 🔹 Rev 1
 
