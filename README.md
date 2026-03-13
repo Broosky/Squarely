@@ -24,6 +24,7 @@ Reflecting on the original design, here are a few areas worth improving:
 
 ## 🔹 General Notes
 
+- VDC: 7 - 12 V.
 - Input Signal Options:
   - Internal 555 timer (adjustable via RC timing).
   - External square wave source (connect to pin 14 / CP0 of the first 74XX90).
