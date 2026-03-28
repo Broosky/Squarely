@@ -26,7 +26,7 @@ Reflecting on the original design, here are a few areas worth improving:
 
 - Initial release.
 
-## 🔹 General Notes
+## 🔹 Features
 
 - VDC: 7 - 12 V.
 - Input Signal Options:
